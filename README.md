@@ -25,4 +25,7 @@ Fitur Versi 1.0.1 - 1.0.12:
 19. Video Converter Avi To Mp4(Beta)
 20. Video Converter Mp4 To Mp3(Beta)
 
-Note: Untuk Fitur AI masih tahap pengembangan dan saya lagi mencari solusi nya :)
+Note:
+1. Untuk menjalankan aplikasi ini, pilih Video_Player.exe
+2. OS: Windows 7, 8, 10, dan 11
+3. Untuk Fitur AI masih tahap pengembangan dan saya lagi mencari solusi nya :)
