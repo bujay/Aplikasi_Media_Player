@@ -31,5 +31,4 @@ Note:
 3. Untuk Fitur AI masih tahap pengembangan dan saya lagi mencari solusi nya :)
 
 Developer:
-
 Ahmad Bujai Rimi | Teknik Informatika | Universitas Esa Unggul | Enjay Studio
