@@ -29,3 +29,6 @@ Note:
 1. Untuk menjalankan aplikasi ini, pilih Video_Player.exe
 2. OS: Windows 7, 8, 10, dan 11
 3. Untuk Fitur AI masih tahap pengembangan dan saya lagi mencari solusi nya :)
+
+Developer:
+Ahmad Bujai Rimi | Teknik Informatika | Universitas Esa Unggul | Enjay Studio
