@@ -3,7 +3,7 @@ Aplikasi Media Player dan Banyak Fitur Dengan Menggunakan Bahasa Pemrograman Pyt
 
 Lisensi Key: Ahmad Bujai Rimi, Teknik Informatika 2019
 
-Fitur Versi 1.0.1 - 1.0.12:
+Fitur Versi 1.0.1 - 1.0.14:
 1. Fitur MenuBar
 2. Durasi Video
 3. Penambahan Fitur Borderless
