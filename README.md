@@ -1,7 +1,7 @@
 # Aplikasi_Media_Player
 Aplikasi Media Player dan Banyak Fitur Dengan Menggunakan Bahasa Pemrograman Python 3.10.6
 
-Lisensi Key: Ahmad Bujai Rimi, Teknik Informatika 2019
+Lisensi Key: Ahmad Bujai Rimi
 
 Fitur Versi 1.0.1 - 1.0.14:
 1. Fitur MenuBar
